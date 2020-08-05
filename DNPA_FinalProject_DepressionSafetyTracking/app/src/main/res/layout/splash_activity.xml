@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Depression Safety \n Tracking"
+        android:text="Safety \n Tracking"
         android:layout_marginTop="60dp"
         android:textAlignment="center"
         android:textColor="#fff"
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:layout_marginRight="30dp"
-        android:text="DNPA-2020"
+        android:text="TI-2020"
         android:textAlignment="viewEnd"
         android:textColor="#fff"
         android:textSize="20dp" />

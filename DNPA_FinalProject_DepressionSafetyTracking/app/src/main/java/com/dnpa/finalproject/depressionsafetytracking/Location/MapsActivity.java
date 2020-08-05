@@ -78,7 +78,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     //solo obtener los actuales o no se
                     tmpRealTimeMarkers.add(mMap.addMarker(markerOptions));
                 }
-
                 realTimeMarkers.clear();
                 realTimeMarkers.addAll(tmpRealTimeMarkers);
             }
